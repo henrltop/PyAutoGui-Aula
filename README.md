@@ -1,1 +1,1 @@
-Alguns códigos simples para minha a primeira aula de pyautogui
+Códigos sobre a primeira aula que eu dei de autmaç~eo utilizando o pyautogui
